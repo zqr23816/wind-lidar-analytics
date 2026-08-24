@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.streamlit/secrets.toml
+data/raw/
+data/private/
+results/
+*.exe
+*.spec
+
+
